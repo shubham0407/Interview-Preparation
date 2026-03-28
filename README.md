@@ -1,5 +1,8 @@
 # Interview-Preparation
 
+# Comprehensive Guide to Object-Oriented Design: Principles, Patterns, and Implementation Strategies
+1. Competitive Programming (DS and Algo) Topcoder [https://leetcode.com/discuss/post/5492187/comprehensive-guide-to-object-oriented-d-xz64/)
+
 # Data-Structure-Algorithms-LLD-HLD
 
 ## Data Structure Resources
