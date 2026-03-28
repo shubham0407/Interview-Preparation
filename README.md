@@ -40,6 +40,7 @@
 16. [Graph Pattern LeetCode](https://leetcode.com/discuss/general-discussion/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions)
 17. [Cloning Problems LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/discuss/1843061/Generalised-Solution-for-All-Clone-Related-Problems)
 
+#### For Readers
 18. [DS Algo Leetcode guide](https://leetcode.com/discuss/study-guide/494279/Comprehensive-Data-Structure-and-Algorithm-Study-Guide)
 19. [Cp Algorithms site](http://cp-algorithms.com/)
 20. [Tech Interview Guide](http://adilet.org/blog/your-ultimate-guide-to-interview-preparation/)
